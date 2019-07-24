@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/udacity-reactnd-redux-developer-tools/static/js/main.cb0be8c0.chunk.js",
+    "main.js.map": "/udacity-reactnd-redux-developer-tools/static/js/main.cb0be8c0.chunk.js.map",
+    "runtime~main.js": "/udacity-reactnd-redux-developer-tools/static/js/runtime~main.48b32edc.js",
+    "runtime~main.js.map": "/udacity-reactnd-redux-developer-tools/static/js/runtime~main.48b32edc.js.map",
+    "static/js/2.e9151331.chunk.js": "/udacity-reactnd-redux-developer-tools/static/js/2.e9151331.chunk.js",
+    "static/js/2.e9151331.chunk.js.map": "/udacity-reactnd-redux-developer-tools/static/js/2.e9151331.chunk.js.map",
+    "index.html": "/udacity-reactnd-redux-developer-tools/index.html",
+    "precache-manifest.430834a385ac075456f241f1e3402900.js": "/udacity-reactnd-redux-developer-tools/precache-manifest.430834a385ac075456f241f1e3402900.js",
+    "service-worker.js": "/udacity-reactnd-redux-developer-tools/service-worker.js"
+  }
+}
