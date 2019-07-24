@@ -14,7 +14,7 @@ class Notification extends React.Component {
 
         return (
             <div>
-                <h1>Notifications</h1>
+                <h1>Unread Notifications</h1>
                 <ul>
                     { notifications.map(notification => <li key={notification.id}>{ notification.text }</li>)}
                 </ul>
