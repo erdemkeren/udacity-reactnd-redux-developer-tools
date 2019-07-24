@@ -5,7 +5,7 @@ import { retrievedNotifications } from '../../actions'
 
 class Notification extends React.Component {
     componentDidMount () {
-        axios.get("http://webinar-4.erdemkeren.com/api/v1/notification?username=webinar")
+        axios.get("https://webinar-4.erdemkeren.com/api/v1/notification?username=webinar")
         .then(response => { this.props.dispatch(retrievedNotifications(response.data)) })
     }
 
@@ -14,7 +14,7 @@ class Notification extends React.Component {
 
         return (
             <div>
-                <h1>Unread Notifications</h1>
+                <h1>Notifications</h1>
                 <ul>
                     { notifications.map(notification => <li key={notification.id}>{ notification.text }</li>)}
                 </ul>
