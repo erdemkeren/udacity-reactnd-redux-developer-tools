@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/udacity-reactnd-redux-developer-tools/precache-manifest.430834a385ac075456f241f1e3402900.js"
+  "/udacity-reactnd-redux-developer-tools/precache-manifest.9edc44a4a521b46245a598ebc4d5d17e.js"
 );
 
 self.addEventListener('message', (event) => {

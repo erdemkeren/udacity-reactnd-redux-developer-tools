@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2987f472d71eff4e2e5bc91f97a74ca5",
+    "revision": "193162f89468d0737dff4156ab7e3a61",
     "url": "/udacity-reactnd-redux-developer-tools/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/udacity-reactnd-redux-developer-tools/static/js/2.e9151331.chunk.js"
   },
   {
-    "revision": "da2f5c8dfcb442645f66",
-    "url": "/udacity-reactnd-redux-developer-tools/static/js/main.cb0be8c0.chunk.js"
+    "revision": "6b9bbdb27999f507d994",
+    "url": "/udacity-reactnd-redux-developer-tools/static/js/main.d8d03ab8.chunk.js"
   },
   {
     "revision": "f82911eb907e721c2988",
